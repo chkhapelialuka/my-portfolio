@@ -385,12 +385,7 @@ function init3DModel(containerId, modelUrl) {
         modelUrl,
         function (gltf) {
 
-const loadingText = document.createElement('div');
-loadingText.textContent = 'Loading 3D model...';
-loadingText.style.position = 'absolute';
-loadingText.style.top = '10px';
-loadingText.style.left = '10px';
-container.appendChild(loadingText);
+
 
             // Center the model
             const box = new THREE.Box3().setFromObject(gltf.scene);
