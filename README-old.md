@@ -1,6 +1,6 @@
  My 3D Design Portfolio
 
-View live at: [https://https://chkhapelialuka.github.io/my-portfolio/]
+View live at: https://https://chkhapelialuka.github.io/my-portfolio/
 
 ## Features
 - Interactive 3D model viewer
